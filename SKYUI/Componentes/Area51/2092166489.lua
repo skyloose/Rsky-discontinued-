@@ -1,5 +1,3 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/Noibr/Rsky/main/SKYUI/Componentes/Cope.lua")()
-wait(1)
 
 
 
