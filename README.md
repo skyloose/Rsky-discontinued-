@@ -1,4 +1,6 @@
-# Rsky | ℝ𝕤𝕜𝕪 <In progress>
+# Rsky | ℝ𝕤𝕜𝕪 <Discontinued>
+
+
 
 languages used in this project : Lua
 
